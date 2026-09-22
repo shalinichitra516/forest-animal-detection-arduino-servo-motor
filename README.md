@@ -36,7 +36,7 @@ This project is designed to detect the movement of animals in forest areas using
 
 **Result**
 
-![][image1]
+![image1](simulation.jpeg)
 
 ![][image2]  
 The system successfully detects objects/animals within the specified range using an ultrasonic sensor. The Arduino processes the sensor information and controls the servo motor accordingly.
